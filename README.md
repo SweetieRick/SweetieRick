@@ -1,4 +1,4 @@
-### Hi there, I'm SweetieRick! - Founder of [tgcproject][website] community 👋
+### Hi there, I'm SweetieRick! - Founder of TGC Project community 👋
 
 [![Website](https://img.shields.io/website?label=tgcproject.com&style=for-the-badge&url=https%3A%2F%2Ftgcproject.com)](https://www.tgcproject.com)
 
