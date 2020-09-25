@@ -13,6 +13,10 @@
 - 📫 How to reach me: DM me on **Discord**, **Instagram** or **Pinterest** and I will take a little chat!
 - ⚡ Fun fact: I made [![deviceorchestra](https://img.shields.io/youtube/views/lHZkLLRvZFw?label=DeviceOrchestra&style=social)](https://www.youtube.com/watch?v=lHZkLLRvZFw) sound tab trasmigrator 
 
+# Listening on Spotify 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+
 <!--
 **SweetieRick/SweetieRick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
