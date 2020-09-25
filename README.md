@@ -1,6 +1,7 @@
 ### Hi there, I'm SweetieRick! - Founder of TGC Project community 👋
 
 [![Website](https://img.shields.io/website?label=tgcproject.com&style=for-the-badge&url=https%3A%2F%2Ftgcproject.com)](https://www.tgcproject.com)
+[![Discord](https://img.shields.io/discord/599951425144881152?label=TGC%20Discord&style=for-the-badge)](https://discord.gg/8BrJz3E)
 
 
 ## I'm a programmer, musician and great cretive! 🎨
