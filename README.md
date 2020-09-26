@@ -23,13 +23,13 @@
 <br />
 
 # Listening on Spotify 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
-[website]: https://www.tgcproject.com
+<!-- [website]: https://www.tgcproject.com
 [youtube]: 
 [instagram]: 
-[pinterest]: 
+[pinterest]: -->
 [discord]: https://discord.gg/8BrJz3E
 
 <!--
