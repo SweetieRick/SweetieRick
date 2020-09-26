@@ -13,7 +13,7 @@
 - 📫 How to reach me: DM me on **Discord**, **Instagram** or **Pinterest** and I will take a little chat!
 - ⚡ Fun fact: I helped in the making of [![deviceorchestra](https://img.shields.io/youtube/views/lHZkLLRvZFw?label=DeviceOrchestra&style=social)](https://www.youtube.com/watch?v=lHZkLLRvZFw) sound tab trasmigrator 
 
-# Connect with me:
+## Connect with me:
 
 [<img align="left" alt="tgcproject.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="SweetieRick | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
@@ -22,7 +22,7 @@
 
 <br />
 
-## Programming languages I know...
+### Programming languages I know...
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
