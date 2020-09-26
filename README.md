@@ -44,18 +44,19 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> 
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
 
+<br />
+
+## Listening on Spotify 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+<br />
+
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SweetieRick&show_icons=true&hide_border=true" />
 
 </details>
-
-<br />
-
-## Listening on Spotify 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 
 [website]: https://www.tgcproject.com
 [instagram]: https://www.instagram.com/tgc.project
