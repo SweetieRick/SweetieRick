@@ -13,9 +13,22 @@
 - 📫 How to reach me: DM me on **Discord**, **Instagram** or **Pinterest** and I will take a little chat!
 - ⚡ Fun fact: I made [![deviceorchestra](https://img.shields.io/youtube/views/lHZkLLRvZFw?label=DeviceOrchestra&style=social)](https://www.youtube.com/watch?v=lHZkLLRvZFw) sound tab trasmigrator 
 
+## Connect with me:
+
+[<img align="left" alt="tgcproject.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="SweetieRick | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SweetieRick | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SweetieRick | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][instagram]
+
 # Listening on Spotify 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+
+[website]: https://www.tgcproject.com
+[youtube]: 
+[instagram]: 
+[pinterest]: 
+[discord]: https://discord.gg/8BrJz3E
 
 <!--
 **SweetieRick/SweetieRick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
