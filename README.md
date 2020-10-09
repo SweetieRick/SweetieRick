@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/discord/599951425144881152?label=TGC%20Discord&style=for-the-badge)](https://discord.gg/8BrJz3E)
 
 
-## I'm a programmer, musician and great cretive! 🎨
+## I'm a programmer, musician and great creative! 🎨
 
 - 🔭 I’m currently working on Discord.js Bots!
 - 🌱 I’m currently learning CSS and Angular
