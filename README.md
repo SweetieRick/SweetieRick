@@ -17,14 +17,11 @@ _"An organised disorder requires discipline, and a simulated fear requires brave
 
 ## Projects I'm involved in
 - [Crafty Items](https://github.com/SweetieRick/Craftyitems)
-It's my biggest Minecraft mod yet. It adds tons of new ways to craft items that beautifully integrate 
+It's my biggest Minecraft mod yet. It adds tons of new ways to craft items that beautifully integrate with vanilla mechanics, without ruining them
 - [GuildFight](https://github.com/GuildFight)
-Imagine a game... in which Guilds all over Discord partake in a great battlefield!
-This is a passion project which simbolizes all things I've learned about chatbot development, from the most basic of bots until complicated and complex bots which are able to be managed by a dashboard, interact with a custom crafted API and much more exciting stuff. Keep an eye for it's public release!
-- [Swamp Overseer](https://github.com/SweetieRick/SwampOverseer)
-A little Discord project that started for a server with some friends and now evolved into a full blown community around memes, good talks and Shrek prayers. The Swamp Overseer is my hand-in help to the user-base that brings custom built minigames, image manipulation commands and some funny experiments.
+Imagine a game... in which Guilds all over Discord partake in a great battlefield! Soon:tm:
 - [Lost 3d Brother](https://github.com/SweetieRick/3dbrother)
-A prominent beta-focused sm64 ROM hack, which brings and plans to bring a lot of content from the Super Mario 64 beta builds which was lost in time. While doing do, it evolves into a full blown storyline that you will need to discover yourself...
+A prominent beta-focused sm64 ROM hack, where our hero Lorenzo (gigi) walks into a dark dimension long forgot in the hidden files of the game. Will he be able to find his lost brother, or be doomed with eternal darkness? (damn so emotional)
 
 ### I know this stuff (and a bunch more)
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -40,18 +37,3 @@ A prominent beta-focused sm64 ROM hack, which brings and plans to bring a lot of
 <img aligh="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 
 <br />
-
-<!--
-**SweetieRick/SweetieRick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
