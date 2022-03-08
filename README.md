@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/🇮🇹%20Italian%20Juice-100%25-brightgreen?style=flat-square)
 ![](https://img.shields.io/badge/Made%20with%3A-❤%EF%B8%8F-red?style=flat-square)
 
-_"An organised disorder requires discipline, and a simulated fear requires bravery; however, I don't know how to do either" ~Sun Tsu, the Art of War_
+_"An organised disorder requires discipline, and a simulated fear requires bravery; however, I don't know how to do either" ~Sun Tsu, the Art of War (probably)_
 
 ## Dumb Italian factuse's
 
